@@ -33,8 +33,9 @@ Here's a walkthrough of implemented user stories:
 <img src='Flixster.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='Glide2.jpg'  />
 <img src='Glide1.jpg'  />
+![alt text](Glide1.jpg)
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
