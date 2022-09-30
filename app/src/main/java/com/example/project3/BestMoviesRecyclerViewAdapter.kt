@@ -7,7 +7,6 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-//import com.codepath.bestmovieslistapp.R.id
 
 
 class BestMoviesRecyclerViewAdapter(
@@ -34,9 +33,6 @@ class BestMoviesRecyclerViewAdapter(
         }
     }
 
-    /**
-     * This lets us "bind" each Views in the ViewHolder to its' actual data!
-     */
     override fun onBindViewHolder(viewholder: MovieViewHolder, position: Int) {
         val movie = movies[position]
         val url = "https://image.tmdb.org/t/p/w500/"
@@ -55,9 +51,7 @@ class BestMoviesRecyclerViewAdapter(
 
     }
 
-    /**
-     * Remember: RecyclerView adapters require a getItemCount() method.
-     */
+
     override fun getItemCount(): Int {
         return movies.size
     }
