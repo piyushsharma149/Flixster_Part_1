@@ -32,8 +32,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='Flixster.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='Glide2.jpg'  />
-<img src='Glide1.jpg'  />
-![alt text](Glide1.jpg)
+<img src=''  />
+<img src="Glide1.jpg" alt="Alt text" title="Optional title">
 <!-- Replace this with whatever GIF tool you used! -->
 
 <!-- Recommended tools:
