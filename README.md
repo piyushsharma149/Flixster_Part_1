@@ -22,6 +22,10 @@ The following **optional** features are implemented:
 - [X] Implement Glide to display placeholder graphics during loading
   - Note: this feature is difficult to capture in a GIF without throttling internet speeds.  Instead, include an additional screencap of your Glide code implementing the feature.  (<10 lines of code)
 
+<img src='Glide1.gif' title='Vieo Walkthrough' width='' />
+
+<img src='Glide2.gif' title='Vide Walkthrough' width='' />
+
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
@@ -31,8 +35,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='Flixster.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='Glide1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='Glide2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 <!-- Replace this with whatever GIF tool you used! -->
 
 <!-- Recommended tools:
