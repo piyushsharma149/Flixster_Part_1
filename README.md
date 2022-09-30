@@ -22,9 +22,9 @@ The following **optional** features are implemented:
 - [X] Implement Glide to display placeholder graphics during loading
   - Note: this feature is difficult to capture in a GIF without throttling internet speeds.  Instead, include an additional screencap of your Glide code implementing the feature.  (<10 lines of code)
 
-<img src='Glide1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Glide1.gif' title='Vieo Walkthrough' width='' />
 
-<img src='Glide2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Glide2.gif' title='Vide Walkthrough' width='' />
 
 The following **additional** features are implemented:
 
